@@ -7,11 +7,7 @@ Recepie:
      * ground lamb
      * 1 tbsp cumin
 
-# Tabbouleh
-     
-     * ing1
-     * ing2
-     * ing3
+
      
 
      
