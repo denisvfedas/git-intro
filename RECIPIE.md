@@ -6,6 +6,7 @@ Recepie:
      * red onioin
      * ground lamb
      * 1 tbsp cumin
+     * coriandre
 
 # Tabbouleh
      
